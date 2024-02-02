@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Artificial Intelligence**
 
-- 📫 How to reach me **lalithaeamndi2001@gmail.com**
+- 📫 How to reach me **lalithaemandi2001@gmail.com**
 
 - ⚡ Fun fact **I once trained a machine learning model to predict my favorite pizza toppings. It turns out, the algorithm is a big fan of pepperoni and extra cheese, just like me! 🍕😄**
 
